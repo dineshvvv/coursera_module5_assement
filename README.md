@@ -1,7 +1,7 @@
 # coursera_module5_assement
 Coursera course: HTML, CSS, and Javascript for Web Developers, Module 5 Coding Assignment, completed.
 
-link:
+link:https://github.com/dineshvvv/coursera_module5_assement.git
 
 Woo-hoo! You get to do some coding! Exciting!
 
